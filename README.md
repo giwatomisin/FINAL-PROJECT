@@ -35,8 +35,6 @@ This project implements an AI-powered system that automatically analyzes chest X
 * **TensorFlow / PyTorch**
 * **CNN Architectures (e.g., ResNet, DenseNet)**
 * **LSTM / Transformer for Captioning**
-* **Flask / Django / FastAPI** (for backend)
-* **React / HTML-CSS-JS** (if frontend is used)
 * **OpenCV, PIL** for image handling
 * **Matplotlib / Seaborn** for visualization
 
@@ -47,10 +45,8 @@ This project implements an AI-powered system that automatically analyzes chest X
 The model is trained and evaluated on publicly available medical image datasets:
 
 * **NIH Chest X-ray Dataset**
-* **RSNA Pneumonia Detection Challenge**
-* **MIMIC-CXR** (if used)
-
-> 📝 Ensure compliance with dataset licenses when distributing or deploying the app.
+* **RSNA Pneumonia Detection**
+* **MIMIC-CXR** 
 
 ---
 
